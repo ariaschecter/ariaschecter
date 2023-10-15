@@ -1,8 +1,8 @@
 <h1>Whats good? 👋, My name is Aria Maulana</h1>
-Uploading all of my past projects... ███████░░░ 70%
+Uploading all of my past projects... ████████░░ 80%
 
-<h3>Back End enthusiasm</h3>
-<p>Semester 6 college student</p>
+<h3>Laravel enthusiasm</h3>
+<p>Semester 7 college student</p>
 <p>Bangkit 2023 cloud computing cohort student</p>
 <p>Dicoding Academy 2022 Frontend & Backend cohort student</p>
 
@@ -20,7 +20,6 @@ Uploading all of my past projects... ███████░░░ 70%
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/> </a> </p>
 
 <br clear="both">
-<b>I HAVE 0 SELF ESTEEM</b><br>
 <div align="left">
 <!--   <img height="200" src="https://i.imgflip.com/7bs2j8.jpg"  /> -->
 </div>
